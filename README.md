@@ -1,24 +1,18 @@
 # SQL-Health-Project
 *Exploring the Drivers of Healthcare Costs (SQL + Power BI Analysis)*
 
-**Project Overview**
+### **Project Overview**
 
 > This project explores healthcare charges using SQL and Power BI. The analysis examines how factors such as smoking status, BMI, age, children, and region influence medical charges. The goal is to uncover drivers of high costs and highlight patient groups most affected.
 
----
+### **Dataset**
+The dataset was acquired from Kaggle (titled "Medical Insurance Cost Dataset")
+The main columns: *age, gender, BMI, children, smoker, region, charges*.
 
-### 3. **Dataset**
+### **Tools Used**
 
-* Source (if it’s the Kaggle “Medical Cost Personal Dataset” or similar, mention it).
-* Number of records and features (e.g., 1,338 patients, 7 key attributes).
-* Main columns: *age, gender, BMI, children, smoker, region, charges*.
-
----
-
-### 4. **Tools Used**
-
-* **SQL (MySQL / PostgreSQL / etc.)** – for cleaning, querying, and analysis.
-* **Power BI** – for interactive dashboards and data storytelling.
+* **SQL (MySQL Workbench)** – for cleaning, querying, and analysis.
+* **Power BI** – for visualization and storytelling.
 
 ---
 
